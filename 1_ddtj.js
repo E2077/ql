@@ -57,7 +57,7 @@ const CryptoJS = require('crypto-js');  //引用AES源码js
 })()
   .catch((e) => $.logErr(e))
   .finally(() => $.done())
-//数据获取
+//数据获取1
 
 
 function ddtjck() {
