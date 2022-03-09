@@ -2,6 +2,8 @@
 58同城
 邀请注册链接：https://wxznhytongzhen.ganji.com/magicminers/web/v/invitepagenew/detergeviva?identity=32CCFDFFDC5C31E632953BC30AE128439AB6BC946308BED4129E119D7EA50C6608A121291361707482F436F00B97184F&source=tc&pid=1936&invitetype=8&platform=m&targetpage=home
 
+cron 30 * * * * 58同城.js
+
 安卓貌似需要root才能捉到包，IOS随便捉
 多账号切换账号不能退出登录
 
